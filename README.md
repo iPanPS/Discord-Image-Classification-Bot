@@ -5,6 +5,8 @@
 
 is a Discord Bot built using the [Google Teachable Machine]([https://ckptw.mengkodingan.my.id/](https://teachablemachine.withgoogle.com/)). This bot allows you to automate various tasks on Discord.
 
+![alt text](/images/image.png)
+
 ## Features
 
 - **Message Handling:** Handle incoming messages and respond accordingly.
